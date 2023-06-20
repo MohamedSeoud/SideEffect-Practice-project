@@ -1,0 +1,7 @@
+export const USERINPUT = "USERINPUT";
+export const PASSWORDINPUT = "PASSWORDINPUT";
+export const INPUTBLUR = "INPUTBLUR";
+export const PASSWORDBLUR = "PASSWORDBLUR";
+
+
+
